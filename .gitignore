@@ -1,0 +1,15 @@
+.history/
+.vscode
+vendor
+coverage.out
+log
+go.sum
+.DS_Store
+work/**
+__debug_bin*
+.idea/
+bin/
+go.work
+go.work.sum
+in-proxy
+out-proxy
