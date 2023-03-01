@@ -1,4 +1,4 @@
-module fast_proxy_samples
+module fast_proxy_examples
 
 go 1.19
 
